@@ -8,6 +8,7 @@
 5. Installation guide (TBD)
 
 **1.Overview**
+
 We present a plan to create a group of services and products to enhance and reinforce the experience of the visitors of the new Science Museum.
 
 Based on surveys and interviews data collection, we are aiming our efforts to a target group of people between 25 to 45 years old. Younger groups are regular visitors to the science museum due to their scholar activities. Therefore, our goal is to create and strength bonds with a mature group, especially female groups.
@@ -25,14 +26,19 @@ For non-app holders, the personalized guide and interactive visit will happen th
 Lastly, after their visit, app holders will receive interesting info based on their favorite exhibition, tips, quizzes, news, upcoming exhibitions, interesting science facts and earning points programs.
 
 **2.Contributors and roles**
--Lampis: Will be focusing on the interactive screens part of the project, inside the museum.
+
+-Lampis: Will be focusing on the interactive screens part of the project, at the museum.
+
 -Pepiro: Will be focusing on the mobile app part of the project, outside the museum, for prior and after the visit, and at the museum, as well.
 
 **3.Frameworks**
+
 For this prototype, MIT's AppInventor will be used, and perhaps some Origami or Adobe XD for presentational purposes.
 
 **4.Target Platform**
+
 The idea for the project's aim, is to be developed on a mobile app and, on a interactive touch screen at the museum (desktop computer). For prototyping purposes we will only develop the mobile part, but we will adapt the interactive screens part into a mobile experience, as well.
 
 **5.Installation Guide**
+
 -TBD-
